@@ -1,7 +1,11 @@
 # app-dev
 My first repository
 
-# Scary Movie
+# Favorite Series/Movie
 
-- A **scary movie** is a genre of storytelling that aims to **scare, shock, and thrill** its audience1.  
-- It often features a central villain, monster, or threat that elicits feelings of fear, terror, and suspense
+1. **One Piece**
+2. **Hunter X Huner**
+3. **Arcane**
+4. **Trese**
+
+
